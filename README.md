@@ -11,7 +11,7 @@ Each folder contains a small, self-contained example with clean code, clear comm
 
 | #  | Project Name  | Live Demo | Code Folder |
 |----|--------------|-----------|-------------|
-| 1  | Dynamic List | [Live](https://emmski.github.io/emmskidev-tutor/01-dynamic-list/) | [Code](01-dynamic-list) |
+| 1  | Dynamic List | [Live](https://emmski-dev.github.io/emmskidev-tutor/01-dynamic-list/) | [Code](01-dynamic-list) |
 
 *(More projects coming soon)*
 
